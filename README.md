@@ -1,6 +1,6 @@
-# This is just a small project for uni from the first semester 
+# This is a small project for university from the first semester.
 
-## Just a small first touch with front end developing
+## First touch with front-end developing.
 
 
 ### <p align="center">FRONT PAGE:</p>
